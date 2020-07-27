@@ -1,6 +1,6 @@
 # IPC|BTP - Final Assessment Part-2 (7.5% of term grade)
 
-# DUE: April 17th by Noon (11:59 AM)
+# DUE: August 14th by NOON (11:59 AM EST)
 
 ```
 Section     Worth Term Grade
