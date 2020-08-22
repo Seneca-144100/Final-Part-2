@@ -12,7 +12,7 @@
    +--------------------------------------------------------+
    |                FILE: file_helper.h                     |
    +--------------------------------------------------------+
-   |           2  0  2  0  ~  S  U  M  M  E  R              |
+   |              2  0  2  0  ~  F  A  L  L                 |
    |                 I  P  C  :  B  T  P                    |
    |                 1  4  4  :  1  0  0                    |
    |              FINAL ASSESSMENT PART - 2                 |
@@ -25,27 +25,5 @@
 
 #include <stdio.h>
 
-/********************************************************/
-/* Define the missing members for the SkierInfo data    */
-/* used to store Skier information read from a file     */
-/********************************************************/
-struct SkierInfo
-{
-	// TODO:  Fill in the missing members:
-};
-
-
-
-/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
-/*!!!        DO NOT ALTER THE CONTENTS BELOW       !!!*/
-/*!!!             ( function prototype )           !!!*/
-/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
-
-/********************************************************/
-/* Read all the information on one skier from the       */
-/* file and store it in the struct. Return true         */
-/* when end of file has been reached.                   */
-/********************************************************/
-int readFileRecord(FILE* fp, struct SkierInfo* info);
 
 #endif

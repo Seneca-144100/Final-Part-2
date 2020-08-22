@@ -12,7 +12,7 @@
    +--------------------------------------------------------+
    |                   FILE: main.c                         |
    +--------------------------------------------------------+
-   |           2  0  2  0  ~  S  U  M  M  E  R              |
+   |              2  0  2  0  ~  F  A  L  L                 |
    |                 I  P  C  :  B  T  P                    |
    |                 1  4  4  :  1  0  0                    |
    |              FINAL ASSESSMENT PART - 2                 |
@@ -26,19 +26,5 @@
 
 int main(void)
 {
-	// TODO: Code the necessary logic for your solution below
-	//
-	// NOTE: Use modularity whenever possible in your design
-	//
-	// HINTS:
-	// 1) You will need to load the file data and store
-	//    it to a data structure array 
-	//    (MUST USE: provided "readFileRecord" function)
-	//
-	// 2) Create a menu system to provide the user with
-	//    the reporting options
-	//
-	// 3) Generate the user-selected report
-			
 	return 0;
 }
